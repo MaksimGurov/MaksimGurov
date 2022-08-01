@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **guromaksim1334@gmail.com**
 
+- 📫 I'm only telegram: https://t.me/mx_gurov
+
+- 👨‍🎓 Coursera Verification: https://www.credly.com/users/maksim-gurov/badges
+
 - 📝 Interest **Racing (Formula 1), taking various courses on Coursera, sports(horizontal bars, running)**
 
 <h3 align="left">Connect with me:</h3>
