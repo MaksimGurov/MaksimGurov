@@ -3,8 +3,6 @@
 <h3 align="center">A passionate backend developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maksimgurov&label=Profile%20views&color=0e75b6&style=flat" alt="maksimgurov" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby/Ruby on Rails**
