@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby/Ruby on Rails**
-
 - 📚 Books: [Ruby для романтиков - второе издание, Ruby on Rails Tutorial Michael Hartl, Симдянов И.В. - Самоучитель Ruby]
 
-- 💬 Ask me about **WSL2, Ubuntu**
+- 💬 Ask me about **Ubuntu, Ruby/Ruby on Rails**
 
 - 📫 How to reach me **guromaksim1334@gmail.com**
 
