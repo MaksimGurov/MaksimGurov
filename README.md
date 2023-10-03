@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **guromaksim1334@gmail.com**
 
-- 📫 I'm only telegram: https://t.me/mx_gurov
+- 📫 I'm only telegram: https://t.me/mkgrv
 
 - 👨‍🎓 Coursera Verification: https://www.credly.com/users/maksim-gurov/badges
 
@@ -22,7 +22,7 @@
 <a href="https://vk.com/mx.gurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="mx.gurov" height="30" width="40" /></a>
 <a href="https://instagram.com/mx.gurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mx.gurov" height="30" width="40" /></a>
 <a href="https://twitter.com/maksimgurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hybridoitc" height="30" width="40" /></a>
-<a href="https://t.me/mx_gurov" target="blank"><img align="left" alt="yegor256 | Telegram" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" /></a>
+<a href="https://t.me/mkgrv" target="blank"><img align="left" alt="yegor256 | Telegram" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" /></a>
 <a href="https://linkedin.com/in/mxgurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mx.gurov" height="30" width="40" /></a>
 </p>
 
