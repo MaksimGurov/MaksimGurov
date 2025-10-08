@@ -5,17 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📚 Books: [Ruby для романтиков - второе издание, Ruby on Rails Tutorial Michael Hartl, Симдянов И.В. - Самоучитель Ruby]
-
-- 💬 Ask me about **Ubuntu, Ruby/Ruby on Rails**
-
-- 📫 How to reach me **guromaksim1334@gmail.com**
-
-- 📫 I'm only telegram: https://t.me/mkgrv
-
-- 👨‍🎓 Coursera Verification: https://www.credly.com/users/maksim-gurov/badges
-
-- 📝 Interest **Racing (Formula 1), taking various courses on Coursera, sports(horizontal bars, running)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
